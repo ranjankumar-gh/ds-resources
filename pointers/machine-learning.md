@@ -94,6 +94,7 @@ Methods that are having most impact in industry today are:
 - Paper – [Pregel: A System for Large-Scale Graph Processing](https://kowshik.github.io/JPregel/pregel_paper.pdf)
 - Graph Analytics—Lessons Learned and Challenges Ahead – [tutorial](https://www.cs.umd.edu/users/ben/papers/Wong2011Graph.pdf)
 - [Graphviz](http://www.graphviz.org/) – Graph Visualization Software
+- [Apache TinkerPop™ - A graph computing framework for both graph databases (OLTP) and graph analytic systems (OLAP)](http://tinkerpop.apache.org/)
 
 ## Statistics
 - Introduction to Statistical Learning – [Free Download](http://www-bcf.usc.edu/~gareth/ISL/)
