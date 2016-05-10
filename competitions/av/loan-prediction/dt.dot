@@ -1,7 +1,0 @@
-digraph Tree {
-0 [label="Credit_History <= 0.4211\ngini = 0.429840104404\nsamples = 614", shape="box"] ;
-1 [label="gini = 0.1449\nsamples = 89\nvalue = [ 82.   7.]", shape="box"] ;
-0 -> 1 ;
-2 [label="gini = 0.3312\nsamples = 525\nvalue = [ 110.  415.]", shape="box"] ;
-0 -> 2 ;
-}
