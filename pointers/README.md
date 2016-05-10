@@ -1,4 +1,3 @@
-#TO DO: (Bring pointers under ds-resources)
 # Pointers of Interest
 
 - [Machine Learning](https://github.com/ranjankumar-gh/pointers/blob/master/machine-learning.md)
