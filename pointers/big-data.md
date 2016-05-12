@@ -4,6 +4,7 @@
 - [Spark Notebook](https://www.udacity.com/course/intro-to-data-analysis--ud170)
 
 ## Books
+- [Big Data: Principles and best practices of scalable realtime data systems](http://www.amazon.in/dp/1617290343/)
 - [Advanced Analytics with Spark: Patterns for Learning from Data at Scale](http://www.amazon.in/Advanced-Analytics-Spark-Patterns-Learning-ebook/dp/B00VKTMQCK/ref=sr_1_fkmr0_2?s=digital-text&ie=UTF8&qid=1461662048&sr=1-2-fkmr0&keywords=advance+analysis+with+spark)
 
 ## Articles
