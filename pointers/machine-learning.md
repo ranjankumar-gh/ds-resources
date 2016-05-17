@@ -146,6 +146,7 @@ Methods that are having most impact in industry today are:
 
 ## Data Mining
 - [Mining of Massive Datasets](http://www.mmds.org/): Jure Leskovec, Anand Rajaraman, Jeffrey D. Ullman
+- [27 Free Data Mining Books](http://www.dataonfocus.com/21-free-data-mining-books/)
 
 ## Natural Language Processing
 - [NLP @google](http://research.google.com/pubs/NaturalLanguageProcessing.html)
