@@ -75,6 +75,9 @@ Methods that are having most impact in industry today are:
 - [Six qualities of a great data scientist](http://datascopeanalytics.com/blog/six-qualities-of-a-great-data-scientist/)
 - [Analyzing the Analyzers](http://cdn.oreillystatic.com/oreilly/radarreport/0636920029014/Analyzing_the_Analyzers.pdf)
 - [4 trends in security data science](http://buff.ly/1M8f4Sb): From intelligent investigation to cloud “security-as-a-service,” what you need to know for 2016
+- [How to Become a Data Scientist for Free](http://www.datasciencecentral.com/profiles/blogs/how-to-become-a-data-scientist-for-free)
+- Religiously follow this [infographic on how to become a data scientist](http://i1.wp.com/blog.datacamp.com/wp-content/uploads/2014/08/How-to-become-a-data-scientist.jpg)
+- [The Open Source Data Science Masters](http://datasciencemasters.org/)
 
 ## Competitions
 - [Analytics Vidhya](http://www.analyticsvidhya.com/)
