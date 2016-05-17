@@ -100,6 +100,7 @@ Methods that are having most impact in industry today are:
 - [Apache TinkerPop™ - A graph computing framework for both graph databases (OLTP) and graph analytic systems (OLAP)](http://tinkerpop.apache.org/)
 
 ## Statistics
+- [OpenIntro](https://www.openintro.org/index.php)
 - Introduction to Statistical Learning – [Free Download](http://www-bcf.usc.edu/~gareth/ISL/)
 - The Elements of Statistical Learning: Data Mining, Inference, and Prediction by Trevor Hastie, Robert Tibshirani, Jerome Friedman – [Free Download](http://statweb.stanford.edu/~tibs/ElemStatLearn/)
 - Think Stats – Alien B Downey – [Free Download](http://greenteapress.com/thinkstats2/thinkstats2.pdf)
