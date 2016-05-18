@@ -2,7 +2,6 @@
 - [Books](#books)
 - [Machine Learning](#machine-learning)
 - [Big Data](#big-data)
-- [Visualization](https://github.com/ranjankumar-gh/ds-resources/blob/master/pointers/visualization.md)
 - [Sentiment Analysis](https://github.com/ranjankumar-gh/ds-resources/blob/master/pointers/sentiment-analysis.md)
 - [Scala](https://github.com/ranjankumar-gh/ds-resources/blob/master/pointers/scala.md)
 - [Wisdom](https://github.com/ranjankumar-gh/ds-resources/blob/master/pointers/wisdom.md)
