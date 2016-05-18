@@ -1,4 +1,4 @@
-##Machine Learning
+### Machine Learning
 - [An Introduction to Machine Learning with Python](http://blog.districtdatalabs.com/an-introduction-to-machine-learning-with-python)
 - **[Python Machine Learning - Sebastian Raschka](https://github.com/rasbt/python-machine-learning-book)**
 - **[Mining the Social Web: Data Mining Facebook, Twitter, LinkedIn, Google+, GitHub, and More](http://www.amazon.in/Mining-Social-Web-Facebook-LinkedIn-ebook/dp/B00FNBWNLU?ie=UTF8&ref_=cm_wl_huc_item)**
@@ -22,14 +22,17 @@
 - [Doing Data Science](http://shop.oreilly.com/product/0636920028529.do)
 - [Data Science fro Scratch](http://shop.oreilly.com/product/0636920033400.do)
 
-## Python
+### Big Data
+- [Big Data - Principles and best practices of scalable realtime data systems by Nathan Marz and James Warren](https://www.manning.com/books/big-data)
+
+### Python
 - [Head First Python](http://www.headfirstlabs.com/books/hfpython/)
 - **[Mastering pandas](https://www.packtpub.com/big-data-and-business-intelligence/mastering-pandas)**
 - [Think Python](http://greenteapress.com/wp/think-python-2e/)
 - **[Web Scraping with Python: Collecting Data from the Modern Web by Ryan Mitchell](http://www.amazon.in/dp/B00ZJNH0G0/ref=wl_it_dp_o_pC_nS_ttl?_encoding=UTF8&colid=3ABV9EYU2UD8&coliid=I2C1MSTIBDRCOE)**
 - [Python for Data Analysis: Data Wrangling with Pandas, NumPy, and IPython by Wes McKinney](http://www.amazon.in/Python-Data-Analysis-Wrangling-IPython-ebook/dp/B009NLMB8Q/ref=tmm_kin_swatch_0?_encoding=UTF8&coliid=IL0HZNTFP2EW6&colid=3ABV9EYU2UD8&qid=&sr=)
 
-##Entrepreneurs in Data Science
+### Entrepreneurs in Data Science
 - [Data Science For Business](http://www.amazon.com/Data-Science-Business-Data-Analytic-Thinking/dp/1449361323/)
 - [Big Data at Work](http://www.amazon.com/Big-Data-Work-Dispelling-Opportunities/dp/1422168166/)
 - [Lean Analytics](http://www.amazon.com/Lean-Analytics-Better-Startup-Faster/dp/1449335675/)
@@ -46,11 +49,11 @@
 - [Bootstrapping a Business](http://www.amazon.com/Bootstrapping-Your-Business-Successful-Company/dp/1419669559/ref=sr_1_2?s=books&ie=UTF8&qid=1461547556&sr=1-2&keywords=bootstrapping+a+business)
 - [Analytics at Work](http://www.amazon.com/Analytics-Work-Smarter-Decisions-Results/dp/1422177696)
 
-##Matematics
+### Matematics
 - [Linear Algebra and Its Applications by Gilbert Strang](http://www.amazon.in/dp/8131501728/ref=wl_it_dp_o_pC_nS_ttl?_encoding=UTF8&colid=3ABV9EYU2UD8&coliid=I1IXEWGNWFSVL6)
 - **[How to Solve It: A New Aspect of Mathematical Method (Princeton Science Library)](http://www.amazon.in/dp/B0073X0IOA/ref=wl_it_dp_o_pC_nS_ttl?_encoding=UTF8&colid=3ABV9EYU2UD8&coliid=I2SH3K6C4USDHG)**
 
-##General
+### General
 - [If You're So Smart, Why Aren't You Happy?: The Surprising Path from Career Success to Life Success](http://www.amazon.in/dp/1785040413/ref=wl_it_dp_o_pd_nS_ttl?_encoding=UTF8&colid=3ABV9EYU2UD8&coliid=I1UMWU4N7DD7FL)
 - [The Element: How Finding Your Passion Changes Everything](http://www.amazon.in/dp/0141045256/ref=wl_it_dp_o_pC_nS_ttl?_encoding=UTF8&colid=3ABV9EYU2UD8&coliid=I2QD9ZDT6AKG3A)
 - [Working Identity: Unconventional Strategies for Reinventing Your Career - by Herminia Ibarra](http://www.amazon.in/dp/B004OEIQ7C/ref=wl_it_dp_o_pd_nS_ttl?_encoding=UTF8&colid=3ABV9EYU2UD8&coliid=ITOTOKT0ZDPD2)
