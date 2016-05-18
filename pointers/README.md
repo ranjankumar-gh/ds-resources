@@ -1,5 +1,5 @@
-# Pointers of Interest
-
+# Index
+- [Books](# Books)
 - [Visualization](https://github.com/ranjankumar-gh/ds-resources/blob/master/pointers/visualization.md)
 - [Sentiment Analysis](https://github.com/ranjankumar-gh/ds-resources/blob/master/pointers/sentiment-analysis.md)
 - [Big Data](https://github.com/ranjankumar-gh/ds-resources/blob/master/pointers/big-data.md)
@@ -37,8 +37,6 @@ Methods that are having most impact in industry today are:
 - [Deep Learning](https://www.udacity.com/course/deep-learning--ud730) – Google – Udacity
 - [CCP Data Scientist Exams](http://www.cloudera.com/training/certification/ccp-ds/exams.html)
 - [http://nborwankar.github.io/LearnDataScience/](http://nborwankar.github.io/LearnDataScience/)
-
-## [Books](https://github.com/ranjankumar-gh/pointers/blob/master/books.md)
 
 ## Deep Learning / Neural Network
 - [Deep Learning](http://www.nature.com/nature/journal/v521/n7553/full/nature14539.html) – by Yann LeCun, Yoshua Bengio & Geoffrey Hinton
