@@ -1,4 +1,5 @@
 # Python Resources
+## [Pointers](https://github.com/ranjankumar-gh/ds-resources/tree/master/pointers)
 ##Books / Other references
 - [Python Machine Learning - Sebastian Raschka](http://www.amazon.in/Python-Machine-Learning-Sebastian-Raschka-ebook/dp/B00YSILNL0)
 - [A Tutorial on Support Vector Machines for Pattern
