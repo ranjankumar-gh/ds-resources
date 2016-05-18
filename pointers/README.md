@@ -173,6 +173,8 @@ Methods that are having most impact in industry today are:
 - [Data-Driven Documents](http://d3js.org/): d3.js
 - Newbie to D3.js Expert: [Complete path to create interactive visualization using D3.js](http://www.analyticsvidhya.com/learning-paths-data-science-business-analytics-business-intelligence-big-data/newbie-d3-js-expert-complete-path-create-interactive-visualization-d3-js/)
 - [PhiloGL](http://www.senchalabs.org/philogl/)
+- [Data Visualization](https://www.coursera.org/learn/datavisualization/) - Coursera (As part of [Data Mining Specialization](https://www.coursera.org/specializations/data-mining))
+
 
 ## Graph Analytics
 - Graph Database [Neo4j books](http://neo4j.com/books/)
