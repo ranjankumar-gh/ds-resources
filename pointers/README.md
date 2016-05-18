@@ -60,6 +60,15 @@
 - [Bootstrapping a Business](http://www.amazon.com/Bootstrapping-Your-Business-Successful-Company/dp/1419669559/ref=sr_1_2?s=books&ie=UTF8&qid=1461547556&sr=1-2&keywords=bootstrapping+a+business)
 - [Analytics at Work](http://www.amazon.com/Analytics-Work-Smarter-Decisions-Results/dp/1422177696)
 
+## Visualization
+- [Visualization Analysis and Design by Tamara Munzner](https://www.amazon.in/Visualization-Analysis-Design-AK-Peters-ebook/dp/B00OGLE3XE)
+- [Information Visualization: Perception for Design by Colin Ware](https://www.amazon.in/Information-Visualization-Perception-Interactive-Technologies-ebook/dp/B0083JCI3W)
+- [Envisioning Information by Edward R. Tufte](http://www.amazon.in/Envisioning-Information-Edward-R-Tufte/dp/0961392118/)
+- [Visual Explanations: Images and Quantities, Evidence and Narrative by Edward R. Tufte](http://www.amazon.in/dp/0961392126/)
+- [The Visual Display of Quantitative Information by Edward R. Tufte](http://www.amazon.in/dp/0961392142/)
+- [Visualization Handbook - by Charles D. Hansen](https://www.amazon.in/Visualization-Handbook-Charles-D-Hansen-ebook/dp/B00CLC3STK)
+- [Readings in Information Visualization: Using Vision to Think by Stuart K. Card ](http://www.amazon.in/dp/1558605339/)
+
 ## Matematics
 - [Linear Algebra and Its Applications by Gilbert Strang](http://www.amazon.in/dp/8131501728/ref=wl_it_dp_o_pC_nS_ttl?_encoding=UTF8&colid=3ABV9EYU2UD8&coliid=I1IXEWGNWFSVL6)
 - **[How to Solve It: A New Aspect of Mathematical Method (Princeton Science Library)](http://www.amazon.in/dp/B0073X0IOA/ref=wl_it_dp_o_pC_nS_ttl?_encoding=UTF8&colid=3ABV9EYU2UD8&coliid=I2SH3K6C4USDHG)**
