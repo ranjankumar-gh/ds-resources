@@ -4,7 +4,6 @@
 - [Big Data](#big-data)
 - [Sentiment Analysis](#sentiment-analysis)
 - [Scala](#scala)
-- [Wisdom](https://github.com/ranjankumar-gh/ds-resources/blob/master/pointers/wisdom.md)
 
 # Books
 ## Machine Learning
