@@ -1,5 +1,6 @@
 # Index
 - [Books](# Books)
+- [Machine Learning](# Machine Learning)
 - [Visualization](https://github.com/ranjankumar-gh/ds-resources/blob/master/pointers/visualization.md)
 - [Sentiment Analysis](https://github.com/ranjankumar-gh/ds-resources/blob/master/pointers/sentiment-analysis.md)
 - [Big Data](https://github.com/ranjankumar-gh/ds-resources/blob/master/pointers/big-data.md)
