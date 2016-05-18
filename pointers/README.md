@@ -3,7 +3,7 @@
 - [Machine Learning](#machine-learning)
 - [Big Data](#big-data)
 - [Sentiment Analysis](#sentiment-analysis)
-- [Scala](https://github.com/ranjankumar-gh/ds-resources/blob/master/pointers/scala.md)
+- [Scala](#scala)
 - [Wisdom](https://github.com/ranjankumar-gh/ds-resources/blob/master/pointers/wisdom.md)
 
 # Books
@@ -295,3 +295,9 @@ Methods that are having most impact in industry today are:
 - [Deeply Moving: Deep Learning for Sentiment Analysis - Stanford University](http://nlp.stanford.edu/sentiment/)
 - [Sentiment Analysis: Mining Opinions, Sentiments, and Emotions by Bing Liu](https://www.amazon.in/Sentiment-Analysis-Opinions-Sentiments-Emotions-ebook/dp/B00Y37YXIG)
 - [Opinion Mining and Sentiment Analysis by Bo Pang and Lillian Lee](http://www.cs.cornell.edu/home/llee/omsa/omsa-published.pdf)
+
+# Scala
+- [Structure and Interpretation of Computer Programs Second Edition - Book](https://mitpress.mit.edu/sicp/)
+- [Functional Programming Principles in Scala by Martin Odersky - Coursera](https://class.coursera.org/progfun-005/)
+- [Principles of Reactive Programming - by Martin Odersky, Erik Meijer, Roland Kuhn - Coursera](https://class.coursera.org/reactive-002)
+- [Programming in Scala: A Comprehensive Step-by-Step Guide, Third Edition by Martin Odersky, Lex Spoon, Bill Venners](https://www.amazon.in/Programming-Scala-Comprehensive-Step-Step-ebook/dp/B01EX49FOU)
