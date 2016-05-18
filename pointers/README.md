@@ -278,6 +278,8 @@ Methods that are having most impact in industry today are:
 
 ## Articles
 - [XGBoost4J: Portable Distributed XGBoost in Spark, Flink and Dataflow](http://dmlc.ml/2016/03/14/xgboost4j-portable-distributed-xgboost-in-spark-flink-and-dataflow.html)
+- [How to beat the CAP theorem - Nathan Marz](http://nathanmarz.com/blog/how-to-beat-the-cap-theorem.html)
+- [Questioning the Lambda Architecture - The Lambda Architecture has its merits, but alternatives are worth exploring.](https://www.oreilly.com/ideas/questioning-the-lambda-architecture)
 
 ## Tools
 -**[Apache Flink](https://flink.apache.org/)** is an open source platform for distributed stream and batch data processing.
