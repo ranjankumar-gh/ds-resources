@@ -32,7 +32,7 @@
 - [Doing Data Science](http://shop.oreilly.com/product/0636920028529.do)
 - [Data Science fro Scratch](http://shop.oreilly.com/product/0636920033400.do)
 
-## Big Data
+## Big Data Books
 - [Big Data - Principles and best practices of scalable realtime data systems by Nathan Marz and James Warren](https://www.manning.com/books/big-data)
 - [Advanced Analytics with Spark: Patterns for Learning from Data at Scale](http://www.amazon.in/Advanced-Analytics-Spark-Patterns-Learning-ebook/dp/B00VKTMQCK/ref=sr_1_fkmr0_2?s=digital-text&ie=UTF8&qid=1461662048&sr=1-2-fkmr0&keywords=advance+analysis+with+spark)
 
@@ -262,6 +262,7 @@ Methods that are having most impact in industry today are:
 - [http://icml.cc/](http://icml.cc/2016/)
 
 # Big Data
+
 ## Videos
 - [Advanced Apache Spark- Sameer Farooqui (Databricks)](https://www.youtube.com/watch?v=7ooZ4S7Ay6Y)
 - [Spark Notebook](https://www.udacity.com/course/intro-to-data-analysis--ud170)
