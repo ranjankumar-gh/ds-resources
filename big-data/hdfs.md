@@ -51,7 +51,7 @@
 - DataNodes are responsible for serving read and write requests from the file system’s clients. 
 - DataNodes perform block creation, deletion, and replication upon instruction from the NameNode
 
-### Checkpoint Name (Secondary NameNode)
+### Checkpoint Node (Secondary NameNode)
 - Performs checkpoints of the NameNode’s namespace and logs
 - Not a hot backup
 - Loads up namespace
